@@ -10,5 +10,14 @@
     "test": "tap test"
   },
   "author": "Tom",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1.29",
+    "bluebird": "^2.9.25",
+    "ramda": "^0.14.0"
+  },
+  "devDependencies": {
+    "moment": "^2.10.3",
+    "tap": "^1.0.8"
+  }
 }
