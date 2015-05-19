@@ -1,0 +1,14 @@
+{
+  "name": "@twilson63/snappy",
+  "version": "1.0.0",
+  "description": "AWS Snapshot Script",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap test"
+  },
+  "author": "Tom",
+  "license": "MIT"
+}
